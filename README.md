@@ -1,4 +1,3 @@
-
 # Extremes of Shepp statistics for Gaussian random walk
 
 ## Abstract
@@ -9,3 +8,18 @@ This article has no supplementary materials.
 
 ## Reference
 Zholud, D. (2009). [**Extremes of Shepp statistics for Gaussian random walk**](http://www.zholud.com/articles/Extremes-of-Shepp-Statistics-for-Gaussian-Random-Walk.pdf), *Extremes*, Vol. 12, No. 1, pp. 1-17.
+
+
+## BiBTeX
+
+``` BiBTeX
+@article{Zholud2009,
+  Author = {Zholud, D.},
+  Year = {2009},
+  Title = {Extremes of Shepp statistics for Gaussian random walk},
+  Journal = {Extremes},
+  Volume = {12},
+  Number = {1},
+  Pages = {1--17}
+}
+``` 
