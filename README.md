@@ -23,3 +23,6 @@ Zholud, D. (2009). [**Extremes of Shepp statistics for Gaussian random walk**](h
   Pages = {1--17}
 }
 ``` 
+
+---
+Update 2018
